@@ -1,4 +1,4 @@
-# Hi, I'm ZetzzProject! 🚀
+# Hi, I'm Zhan Setya! 🚀
 
 ![ZetzzProject GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZetzzProject&show_icons=true&theme=radical)
 
@@ -17,9 +17,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zhann44n)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zhann44n)
 
-## 🔥 Projects
-[![GitHub stars](https://img.shields.io/github/stars/ZetzzProject/ZetDos?style=for-the-badge&logo=github)](https://github.com/ZetzzProject/ZetDos)
-[![GitHub stars](https://img.shields.io/github/stars/ZetzzProject/Ubot?style=for-the-badge&logo=github)](https://github.com/ZetzzProject/Ubot)
 
----
-Solo dev & member of AntiDonasi organization.
