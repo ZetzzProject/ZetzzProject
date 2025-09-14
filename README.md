@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm ZetzzProject!
 
-<!--
-**ZetzzProject/ZetzzProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Top Skills
+- JavaScript (JS)
+- Python (Py)
+- FastAPI
+- Flask
+- Express
+- Next.js
 
-Here are some ideas to get you started:
+## 🌐 Social & Contact
+- WhatsApp: [wa.me/6281239621820](https://wa.me/6281239621820)
+- Telegram: [@IloveLilith](https://t.me/IloveLilith), [@zhann44n](https://t.me/zhann44n)
+- Facebook & Instagram: [@zhann44n](https://facebook.com/zhann44n) / [@zhann44n](https://instagram.com/zhann44n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- [ZetDos](https://github.com/ZetzzProject/ZetDos)
+- [Ubot](https://github.com/ZetzzProject/Ubot)
+
+---
+Solo dev & member of AntiDonasi organization.
